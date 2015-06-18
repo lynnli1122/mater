@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="seleniumcn.cn.demo">    
+    <test name="test_seleniumcn" >
+        <classes>
+            <class name="com.sum.TestHelloWorldTestNG"/>
+            <class name="com.sum.TestHelloWorldTestNG_Fail"/>                
+        </classes>
+    </test>  
+</suite>

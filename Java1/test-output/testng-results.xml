@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="seleniumcn.cn.demo" duration-ms="27055" started-at="2015-06-16T08:59:58Z" finished-at="2015-06-16T09:00:25Z">
+    <groups>
+    </groups>
+    <test name="test_seleniumcn" duration-ms="27055" started-at="2015-06-16T08:59:58Z" finished-at="2015-06-16T09:00:25Z">
+      <class name="com.sum.TestHelloWorldTestNG_Fail">
+        <test-method status="PASS" signature="helloWorld()[pri:0, instance:com.sum.TestHelloWorldTestNG_Fail@1c5fd5]" name="helloWorld" duration-ms="13086" started-at="2015-06-16T17:00:11Z" finished-at="2015-06-16T17:00:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- helloWorld -->
+      </class> <!-- com.sum.TestHelloWorldTestNG_Fail -->
+      <class name="com.sum.TestHelloWorldTestNG">
+        <test-method status="PASS" signature="helloWorld()[pri:0, instance:com.sum.TestHelloWorldTestNG@287e60]" name="helloWorld" duration-ms="13680" started-at="2015-06-16T16:59:58Z" finished-at="2015-06-16T17:00:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- helloWorld -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sum.TestHelloWorldTestNG@287e60]" name="tearDown" is-config="true" duration-ms="68" started-at="2015-06-16T17:00:24Z" finished-at="2015-06-16T17:00:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.sum.TestHelloWorldTestNG_Fail@1c5fd5]" name="tearDown" is-config="true" duration-ms="208" started-at="2015-06-16T17:00:24Z" finished-at="2015-06-16T17:00:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.sum.TestHelloWorldTestNG -->
+    </test> <!-- test_seleniumcn -->
+  </suite> <!-- seleniumcn.cn.demo -->
+</testng-results>
